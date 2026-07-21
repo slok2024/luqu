@@ -1,5 +1,6 @@
 <img width="1920" height="941" alt="image" src="https://github.com/user-attachments/assets/842227ff-f079-4fd3-ad09-d1b8525bc1c2" />
 
+演示地址：https://luqu.helloworld2024.workers.dev
 
 这个项目是一个“山东省高考志愿投档录取核对系统”。它是一个纯前端的单文件工具（HTML+JS），专门为高考考生量身定制，用于在志愿填报后进行模拟投档预测和往年录取数据检索。
 
